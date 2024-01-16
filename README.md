@@ -87,5 +87,6 @@ Welcome to my GitHub profile! I'm Qasim Obaidullah, a seasoned game developer wi
 
 Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or collaboration ideas. I'm always open to exciting opportunities and discussions!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Qasim_Obaidullah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/qasimobaidullah/)](https://www.linkedin.com/in/qasimobaidullah/)
+- **Email:** [qasimobaidullah@gmail.com](mailto:qasimobaidullah@gmail.com)
 
+[![Linkedin Badge](https://img.shields.io/badge/-Qasim_Obaidullah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/qasimobaidullah/)](https://www.linkedin.com/in/qasimobaidullah/)
