@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 -->
 # Hi there! 👋 I'm Qasim Obaidullah
 
-## Senior Unity 3D Game Developer 🎮 | Open-World Enthusiast | Hyper-Casual Specialist
+## Senior Game Developer 🎮 | Open-World Enthusiast | Hyper-Casual Specialist
 
 Welcome to my GitHub profile! I'm Qasim Obaidullah, a seasoned game developer with over 5 years of experience in crafting immersive gaming experiences. My expertise lies in Unity 3D development, and I'm passionate about pushing the boundaries of the gaming industry.
 
 ### 🚀 My Expertise:
 
-- **Unity 3D Development:** Proficient in coding, scripting, and optimizing game performance.
+- **3D Development:** Proficient in coding, scripting, and optimizing game performance.
 - **Open-World Games:** Led the development of a groundbreaking open-world game with record-breaking downloads.
 - **Hyper-Casual Genre:** Successfully enhanced user engagement and increased retention rates.
 
@@ -33,6 +33,9 @@ Welcome to my GitHub profile! I'm Qasim Obaidullah, a seasoned game developer wi
 - Git
 - Visual Studio
 - Photoshop
+- Flutter
+- Dart
+- Unreal
 
 ### 🔭 I’m currently working on:
 
