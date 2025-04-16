@@ -36,6 +36,7 @@ Welcome to my GitHub profile! I'm Qasim Obaidullah, a seasoned game developer wi
 - Flutter
 - Dart
 - Unreal
+- Blender
 
 ### 🔭 I’m currently working on:
 
