@@ -1,4 +1,3 @@
-
 <!--
 **qasimobaidullah/qasimobaidullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -40,8 +39,8 @@ Welcome to my GitHub profile! I'm Qasim Obaidullah, a seasoned game developer wi
 
 ### 🔭 I’m currently working on:
 
-- **Openworld Indian Driving Game:** (https://play.google.com/store/apps/details?id=com.gv.gangster.crime.attack.world.city&hl=en_US&gl=US)
-
+- **Openworld Indian Driving Game:**  
+  [Play on Google Play](https://play.google.com/store/apps/details?id=com.gv.gangster.crime.attack.world.city&hl=en_US&gl=US)
 
 ### 🌱 I’m currently learning:
 
@@ -73,7 +72,6 @@ Welcome to my GitHub profile! I'm Qasim Obaidullah, a seasoned game developer wi
 
 - I once implemented a unique game mechanic inspired by incorporating a HUD navigation system from battle royale games into my project. Additionally, I introduced an innovative outline shader for enhanced visual aesthetics.
 
-
 ### 📂 My Projects:
 
 - [Vice Gangstar Mafia Crime Game](https://play.google.com/store/apps/details?id=com.dg.grand.cargo.helicopter.robot.transformation.games)
@@ -82,9 +80,13 @@ Welcome to my GitHub profile! I'm Qasim Obaidullah, a seasoned game developer wi
 - [Openworld Indian Driving Game](https://play.google.com/store/apps/details?id=com.openworld.indiandriving.bikes)
 - [Rope Gangster Crime City Hero](https://play.google.com/store/apps/details?id=com.gv.gangster.crime.attack.world.city)
 
-### 📈 GitHub Stats:
+### 📊 GitHub Stats:
 
 ![Qasim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=qasimobaidullah&show_icons=true&theme=radical)
+
+### 🎮 More Games on itch.io:
+
+- [Explore my indie games on Itch.io](https://rainbow-flamingo.itch.io/)
 
 ### 🤝 Let's Connect:
 
